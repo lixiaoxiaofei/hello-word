@@ -3,7 +3,9 @@
 int main(void)
 
 {
+
 	printf("Hello World! \n");
+	
 	printf("I am pengfei li\n");
   
 	printf("How are you?\n");
@@ -13,4 +15,5 @@ int main(void)
 	printf("Today is Tuesday\n");
   
 	return 0;
+	
 }
